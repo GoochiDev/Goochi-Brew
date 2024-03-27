@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80006833333",
+    "project_id": "goochi-brew-crew",
+    "storage_bucket": "goochi-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80006833333:android:d06b32238d5732cbe90afc",
+        "android_client_info": {
+          "package_name": "com.goochi.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLkYfOjNxG0cv4JavDPXA20u22tBX_Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
